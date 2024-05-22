@@ -1,6 +1,6 @@
 ### Installation:
 
-To create a new project using MERN-X, simply run the following command:
+To create a new project using The-X, simply run the following command:
 ```
 npx mern-x@latest
 // For yarn 
@@ -72,7 +72,7 @@ yarn run create:layout YourLayoutName
 Project Structure 
 
 ```php
-mern-x/
+the-x/
 │
 ├── app/                                      
 │   ├── config/                                 
